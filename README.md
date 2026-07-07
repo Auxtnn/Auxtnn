@@ -10,7 +10,7 @@
 
 ## About Me
 ```
-🔭 4+ years of experience in web & mobile app development
+🔭 5+ years of experience in web & mobile app development
 🌱 Building scalable solutions for startups
 👯 From concept to market - full product lifecycle expertise
 ⚡ Passionate about clean code & user experience
